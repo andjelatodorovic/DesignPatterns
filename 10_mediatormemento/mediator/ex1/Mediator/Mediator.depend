@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1450915120 source:d:\___predavanja\oop2\lekcije\10_mediator_memento\mediator\ex1\mediator\mediatormain.cpp
+	"ConcreteMediator.h"
+
+1450914642 d:\___predavanja\oop2\lekcije\10_mediator_memento\mediator\ex1\mediator\concretemediator.h
+	"ConcreteColleague1.h"
+	"ConcreteColleague2.h"
+
+1450914888 d:\___predavanja\oop2\lekcije\10_mediator_memento\mediator\ex1\mediator\concretecolleague1.h
+	"Colleague.h"
+
+1450914818 d:\___predavanja\oop2\lekcije\10_mediator_memento\mediator\ex1\mediator\colleague.h
+	"Mediator.h"
+
+1450914828 d:\___predavanja\oop2\lekcije\10_mediator_memento\mediator\ex1\mediator\mediator.h
+	<iostream>
+	<cstring>
+	"Colleague.h"
+
+1450914892 d:\___predavanja\oop2\lekcije\10_mediator_memento\mediator\ex1\mediator\concretecolleague2.h
+	"Colleague.h"
+
+1453302358 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\10_mediatormemento\mediator\ex1\mediator\mediatormain.cpp
+	"ConcreteMediator.h"
+
+1453302380 c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\10_mediatormemento\mediator\ex1\mediator\concretemediator.h
+	"ConcreteColleague1.h"
+	"ConcreteColleague2.h"
+
+1453302282 c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\10_mediatormemento\mediator\ex1\mediator\concretecolleague1.h
+	"Colleague.h"
+
+1453302238 c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\10_mediatormemento\mediator\ex1\mediator\colleague.h
+	"Mediator.h"
+
+1453302142 c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\10_mediatormemento\mediator\ex1\mediator\mediator.h
+	<iostream>
+	<cstring>
+	"Colleague.h"
+
+1453302294 c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\10_mediatormemento\mediator\ex1\mediator\concretecolleague2.h
+	"Colleague.h"
+

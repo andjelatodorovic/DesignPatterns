@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1450963983 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\memento\ex1\memento\mementomain.cpp
+	"Originator.h"
+	"Caretaker.h"
+
+1450963950 c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\memento\ex1\memento\originator.h
+	"Memento.h"
+
+1450963797 c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\memento\ex1\memento\memento.h
+	<string>
+	<iostream>
+
+1450964014 c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\memento\ex1\memento\caretaker.h
+	<vector>
+	"Memento.h"
+
+1450964772 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\memento\ex2\mementomain.cpp
+	"Originator.h"
+	"Caretaker.h"
+
+1450964929 c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\memento\ex2\originator.h
+	<iostream>
+	<string>
+
+1450964550 c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\memento\ex2\memento.h
+	<string>
+	<iostream>
+	"Originator.h"
+
+1450964846 c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\memento\ex2\caretaker.h
+	<vector>
+
+1453306861 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\10_mediatormemento\memento\ex2\mementomain.cpp
+	"Originator.h"
+	"Caretaker.h"
+
+1453306918 c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\10_mediatormemento\memento\ex2\originator.h
+	<iostream>
+	<string>
+
+1453306853 c:\users\sidejan\google drive\oop2\vezbe_sredjene\10_mediator_memento\10_mediatormemento\memento\ex2\caretaker.h
+	<vector>
+
