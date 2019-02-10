@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1447247379 source:e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\builder\ex0\builder\buildermain.cpp
+	"Director.h"
+	"ConcreteBuilder.h"
+
+1447247339 e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\builder\ex0\builder\director.h
+	"Builder.h"
+	"Product.h"
+
+1447247279 e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\builder\ex0\builder\builder.h
+	"Product.h"
+
+1447247321 e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\builder\ex0\builder\product.h
+	<iostream>
+
+1447247414 e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\builder\ex0\builder\concretebuilder.h
+

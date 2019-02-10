@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1446116626 source:e:\predavanja\oop2\lekcije\2_abstract_and_builder\abstract\ex1\abstractfactory\concretefactory1.cpp
+	"ConcreteFactory1.h"
+	"ConcreteProductA1.h"
+	"ConcreteProductB1.h"
+
+1446116593 e:\predavanja\oop2\lekcije\2_abstract_and_builder\abstract\ex1\abstractfactory\concretefactory1.h
+	"AbstractFactory.h"
+
+1446116098 e:\predavanja\oop2\lekcije\2_abstract_and_builder\abstract\ex1\abstractfactory\abstractfactory.h
+	"AbstractProductA.h"
+	"AbstractProductB.h"
+
+1446112592 e:\predavanja\oop2\lekcije\2_abstract_and_builder\abstract\ex1\abstractfactory\abstractproducta.h
+
+1446112589 e:\predavanja\oop2\lekcije\2_abstract_and_builder\abstract\ex1\abstractfactory\abstractproductb.h
+
+1446112642 e:\predavanja\oop2\lekcije\2_abstract_and_builder\abstract\ex1\abstractfactory\concreteproducta1.h
+	"AbstractProductA.h"
+
+1446109965 e:\predavanja\oop2\lekcije\2_abstract_and_builder\abstract\ex1\abstractfactory\concreteproductb1.h
+	"AbstractProductB.h"
+
+1446116121 source:e:\predavanja\oop2\lekcije\2_abstract_and_builder\abstract\ex1\abstractfactory\concretefactory2.cpp
+	"ConcreteFactory2.h"
+	"ConcreteProductA2.h"
+	"ConcreteProductB2.h"
+
+1446116116 e:\predavanja\oop2\lekcije\2_abstract_and_builder\abstract\ex1\abstractfactory\concretefactory2.h
+	"AbstractFactory.h"
+
+1446112652 e:\predavanja\oop2\lekcije\2_abstract_and_builder\abstract\ex1\abstractfactory\concreteproducta2.h
+	"AbstractProductA.h"
+
+1446109958 e:\predavanja\oop2\lekcije\2_abstract_and_builder\abstract\ex1\abstractfactory\concreteproductb2.h
+	"AbstractProductB.h"
+
+1446116634 source:e:\predavanja\oop2\lekcije\2_abstract_and_builder\abstract\ex1\abstractfactory\concreteproducta1.cpp
+	"ConcreteProductA1.h"
+	<iostream>
+
+1446116642 source:e:\predavanja\oop2\lekcije\2_abstract_and_builder\abstract\ex1\abstractfactory\concreteproductb1.cpp
+	"ConcreteProductB1.h"
+	<iostream>
+
+1446116572 source:e:\predavanja\oop2\lekcije\2_abstract_and_builder\abstract\ex1\abstractfactory\concreteproducta2.cpp
+	"ConcreteProductA2.h"
+	<iostream>
+
+1446116646 source:e:\predavanja\oop2\lekcije\2_abstract_and_builder\abstract\ex1\abstractfactory\concreteproductb2.cpp
+	"ConcreteProductB2.h"
+	<iostream>
+
+1446116550 source:e:\predavanja\oop2\lekcije\2_abstract_and_builder\abstract\ex1\abstractfactory\abstractfactorymain.cpp
+	"ConcreteFactory1.h"
+	"ConcreteFactory2.h"
+
+1446116550 source:e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\abstract_factory\ex1\abstractfactory\abstractfactorymain.cpp
+	"ConcreteFactory1.h"
+	"ConcreteFactory2.h"
+
+1446116593 e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\abstract_factory\ex1\abstractfactory\concretefactory1.h
+	"AbstractFactory.h"
+
+1446116098 e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\abstract_factory\ex1\abstractfactory\abstractfactory.h
+	"AbstractProductA.h"
+	"AbstractProductB.h"
+
+1446112592 e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\abstract_factory\ex1\abstractfactory\abstractproducta.h
+
+1446112589 e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\abstract_factory\ex1\abstractfactory\abstractproductb.h
+
+1446116116 e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\abstract_factory\ex1\abstractfactory\concretefactory2.h
+	"AbstractFactory.h"
+
+1446116626 source:e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\abstract_factory\ex1\abstractfactory\concretefactory1.cpp
+	"ConcreteFactory1.h"
+	"ConcreteProductA1.h"
+	"ConcreteProductB1.h"
+
+1446112642 e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\abstract_factory\ex1\abstractfactory\concreteproducta1.h
+	"AbstractProductA.h"
+
+1446109965 e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\abstract_factory\ex1\abstractfactory\concreteproductb1.h
+	"AbstractProductB.h"
+
+1446116121 source:e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\abstract_factory\ex1\abstractfactory\concretefactory2.cpp
+	"ConcreteFactory2.h"
+	"ConcreteProductA2.h"
+	"ConcreteProductB2.h"
+
+1446112652 e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\abstract_factory\ex1\abstractfactory\concreteproducta2.h
+	"AbstractProductA.h"
+
+1446109958 e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\abstract_factory\ex1\abstractfactory\concreteproductb2.h
+	"AbstractProductB.h"
+
+1446116634 source:e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\abstract_factory\ex1\abstractfactory\concreteproducta1.cpp
+	"ConcreteProductA1.h"
+	<iostream>
+
+1446116572 source:e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\abstract_factory\ex1\abstractfactory\concreteproducta2.cpp
+	"ConcreteProductA2.h"
+	<iostream>
+
+1446116642 source:e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\abstract_factory\ex1\abstractfactory\concreteproductb1.cpp
+	"ConcreteProductB1.h"
+	<iostream>
+
+1446116646 source:e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\abstract_factory\ex1\abstractfactory\concreteproductb2.cpp
+	"ConcreteProductB2.h"
+	<iostream>
+

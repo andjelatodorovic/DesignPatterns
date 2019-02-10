@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1447254723 source:e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\builder\ex1\graditeljproizvoda\proizvod.cpp
+	"Proizvod.h"
+	<iostream>
+
+1447255290 e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\builder\ex1\graditeljproizvoda\proizvod.h
+
+1447254924 source:e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\builder\ex1\graditeljproizvoda\proizvodmain.cpp
+	"Proizvod.h"
+	"Graditelj.h"
+
+1447255366 e:\predavanja\oop2\postavljenje_lekcije\2_abstract_builder\builder\ex1\graditeljproizvoda\graditelj.h
+	"Proizvod.h"
+
