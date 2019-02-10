@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1446736310 source:e:\predavanja\oop2\lekcije\3_factorymethod_prototype\ex1\factorymethod\prototype\concreteprototype1.cpp
+	"ConcretePrototype1.h"
+	<iostream>
+
+1446736295 e:\predavanja\oop2\lekcije\3_factorymethod_prototype\ex1\factorymethod\prototype\concreteprototype1.h
+	"Prototype.h"
+
+1446735895 e:\predavanja\oop2\lekcije\3_factorymethod_prototype\ex1\factorymethod\prototype\prototype.h
+
+1446736310 source:e:\predavanja\oop2\postavljenje_lekcije\3_factorymethodprototype\prototype\ex1\prototype\concreteprototype1.cpp
+	"ConcretePrototype1.h"
+	<iostream>
+
+1447266399 e:\predavanja\oop2\postavljenje_lekcije\3_factorymethodprototype\prototype\ex1\prototype\concreteprototype1.h
+	"Prototype.h"
+
+1447266377 e:\predavanja\oop2\postavljenje_lekcije\3_factorymethodprototype\prototype\ex1\prototype\prototype.h
+
+1446736331 source:e:\predavanja\oop2\postavljenje_lekcije\3_factorymethodprototype\prototype\ex1\prototype\concreteprototype2.cpp
+	"ConcretePrototype2.h"
+	<iostream>
+
+1447266393 e:\predavanja\oop2\postavljenje_lekcije\3_factorymethodprototype\prototype\ex1\prototype\concreteprototype2.h
+	"Prototype.h"
+

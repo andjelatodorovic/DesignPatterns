@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1446723071 source:e:\predavanja\oop2\lekcije\3_factorymethod_prototype\factory_method\ex1\factorymethod\concretecreator.cpp
+	"ConcreteCreator.h"
+	"ConcreteProduct.h"
+
+1446723155 e:\predavanja\oop2\lekcije\3_factorymethod_prototype\factory_method\ex1\factorymethod\concretecreator.h
+	"Creator.h"
+
+1446723150 e:\predavanja\oop2\lekcije\3_factorymethod_prototype\factory_method\ex1\factorymethod\creator.h
+	"Product.h"
+
+1446723140 e:\predavanja\oop2\lekcije\3_factorymethod_prototype\factory_method\ex1\factorymethod\product.h
+
+1446723145 e:\predavanja\oop2\lekcije\3_factorymethod_prototype\factory_method\ex1\factorymethod\concreteproduct.h
+	"Product.h"
+
+1446723182 source:e:\predavanja\oop2\lekcije\3_factorymethod_prototype\factory_method\ex1\factorymethod\concreteproduct.cpp
+	"ConcreteProduct.h"
+	<iostream>
+
+1446723071 source:e:\predavanja\oop2\postavljenje_lekcije\3_factorymethodprototype\factory_method\ex1\factorymethod\concretecreator.cpp
+	"ConcreteCreator.h"
+	"ConcreteProduct.h"
+
+1447264733 e:\predavanja\oop2\postavljenje_lekcije\3_factorymethodprototype\factory_method\ex1\factorymethod\concretecreator.h
+	"Creator.h"
+
+1447264697 e:\predavanja\oop2\postavljenje_lekcije\3_factorymethodprototype\factory_method\ex1\factorymethod\creator.h
+	"Product.h"
+
+1447264670 e:\predavanja\oop2\postavljenje_lekcije\3_factorymethodprototype\factory_method\ex1\factorymethod\product.h
+
+1447264707 e:\predavanja\oop2\postavljenje_lekcije\3_factorymethodprototype\factory_method\ex1\factorymethod\concreteproduct.h
+	"Product.h"
+
