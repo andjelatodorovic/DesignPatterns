@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1451291868 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\observer\ex1\observer\observermain.cpp
+	"ConcreteSubject.h"
+	"ConcreteObserver.h"
+
+1451291820 c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\observer\ex1\observer\concretesubject.h
+	<iostream>
+	<string>
+	"Subject.h"
+
+1451291765 c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\observer\ex1\observer\subject.h
+	<vector>
+	<algorithm>
+	"Observer.h"
+
+1451291952 c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\observer\ex1\observer\observer.h
+	"Subject.h"
+
+1451291835 c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\observer\ex1\observer\concreteobserver.h
+	<iostream>
+	<string>
+	"Observer.h"
+
+1451291870 source:d:\___predavanja\oop2\lekcije\11_observer_state\observer\ex1\observer\observermain.cpp
+	"ConcreteSubject.h"
+	"ConcreteObserver.h"
+
+1451291822 d:\___predavanja\oop2\lekcije\11_observer_state\observer\ex1\observer\concretesubject.h
+	<iostream>
+	<string>
+	"Subject.h"
+
+1451291766 d:\___predavanja\oop2\lekcije\11_observer_state\observer\ex1\observer\subject.h
+	<vector>
+	<algorithm>
+	"Observer.h"
+
+1451291954 d:\___predavanja\oop2\lekcije\11_observer_state\observer\ex1\observer\observer.h
+	"Subject.h"
+
+1451291836 d:\___predavanja\oop2\lekcije\11_observer_state\observer\ex1\observer\concreteobserver.h
+	<iostream>
+	<string>
+	"Observer.h"
+
+1453309632 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\11_observerstate\observer\ex1\observer\observermain.cpp
+	"ConcreteSubject.h"
+	"ConcreteObserver.h"
+
+1453309501 c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\11_observerstate\observer\ex1\observer\concretesubject.h
+	<iostream>
+	<string>
+	"Subject.h"
+
+1453309445 c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\11_observerstate\observer\ex1\observer\subject.h
+	<vector>
+	<algorithm>
+	"Observer.h"
+
+1453309538 c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\11_observerstate\observer\ex1\observer\observer.h
+	"Subject.h"
+
+1453309580 c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\11_observerstate\observer\ex1\observer\concreteobserver.h
+	<iostream>
+	<string>
+	"Observer.h"
+

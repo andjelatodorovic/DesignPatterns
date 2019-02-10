@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1451302852 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\state\ex1\state\statemain.cpp
+	"Context.h"
+
+1451302838 c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\state\ex1\state\context.h
+	"ConcreteStateA.h"
+	"ConcreteStateB.h"
+
+1451302631 c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\state\ex1\state\concretestatea.h
+	<iostream>
+	"State.h"
+
+1451302881 c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\state\ex1\state\state.h
+
+1451302655 c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\state\ex1\state\concretestateb.h
+	<iostream>
+	"State.h"
+
+1451302894 source:d:\___predavanja\oop2\lekcije\11_observer_state\state\ex1\state\statemain.cpp
+	"Context.h"
+
+1451302840 d:\___predavanja\oop2\lekcije\11_observer_state\state\ex1\state\context.h
+	"ConcreteStateA.h"
+	"ConcreteStateB.h"
+
+1451302632 d:\___predavanja\oop2\lekcije\11_observer_state\state\ex1\state\concretestatea.h
+	<iostream>
+	"State.h"
+
+1451302882 d:\___predavanja\oop2\lekcije\11_observer_state\state\ex1\state\state.h
+
+1451302656 d:\___predavanja\oop2\lekcije\11_observer_state\state\ex1\state\concretestateb.h
+	<iostream>
+	"State.h"
+
+1451302894 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\11_observerstate\state\ex1\state\statemain.cpp
+	"Context.h"
+
+1453316617 c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\11_observerstate\state\ex1\state\context.h
+	"ConcreteStateA.h"
+	"ConcreteStateB.h"
+
+1451302632 c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\11_observerstate\state\ex1\state\concretestatea.h
+	<iostream>
+	"State.h"
+
+1453316753 c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\11_observerstate\state\ex1\state\state.h
+
+1451302656 c:\users\sidejan\google drive\oop2\vezbe_sredjene\11_observer_state\11_observerstate\state\ex1\state\concretestateb.h
+	<iostream>
+	"State.h"
+
+1453316842 source:c:\users\jaksa97\desktop\oop2 primeri\11_observerstate\11_observerstate\state\ex1\state\statemain.cpp
+	"Context.h"
+
+1453316617 c:\users\jaksa97\desktop\oop2 primeri\11_observerstate\11_observerstate\state\ex1\state\context.h
+	"ConcreteStateA.h"
+	"ConcreteStateB.h"
+
+1453316774 c:\users\jaksa97\desktop\oop2 primeri\11_observerstate\11_observerstate\state\ex1\state\concretestatea.h
+	<iostream>
+	"State.h"
+
+1453316753 c:\users\jaksa97\desktop\oop2 primeri\11_observerstate\11_observerstate\state\ex1\state\state.h
+
+1453316778 c:\users\jaksa97\desktop\oop2 primeri\11_observerstate\11_observerstate\state\ex1\state\concretestateb.h
+	<iostream>
+	"State.h"
+
