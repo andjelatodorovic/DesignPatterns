@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1452784060 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\12_strategy_template\template_method\ex1\templatemethod\templatemethod.cpp
+	<memory>
+	"ConcreteClass.h"
+
+1452784090 c:\users\sidejan\google drive\oop2\vezbe_sredjene\12_strategy_template\template_method\ex1\templatemethod\concreteclass.h
+	<iostream>
+	"AbstractClass.h"
+
+1452784093 c:\users\sidejan\google drive\oop2\vezbe_sredjene\12_strategy_template\template_method\ex1\templatemethod\abstractclass.h
+	<iostream>
+
+1452784062 source:d:\___predavanja\oop2\lekcije\12_strategy_template\template_method\ex1\templatemethod\templatemethod.cpp
+	<memory>
+	"ConcreteClass.h"
+
+1452784092 d:\___predavanja\oop2\lekcije\12_strategy_template\template_method\ex1\templatemethod\concreteclass.h
+	<iostream>
+	"AbstractClass.h"
+
+1452784094 d:\___predavanja\oop2\lekcije\12_strategy_template\template_method\ex1\templatemethod\abstractclass.h
+	<iostream>
+

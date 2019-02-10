@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1452770640 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\12_strategy_template\strategy\ex1\strategy\strategymain.cpp
+	"Context.h"
+	"ConcreteStrategyA.h"
+	"ConcreteStrategyB.h"
+	"ConcreteStrategyC.h"
+
+1452770664 c:\users\sidejan\google drive\oop2\vezbe_sredjene\12_strategy_template\strategy\ex1\strategy\context.h
+	<iostream>
+	"Strategy.h"
+
+1452770654 c:\users\sidejan\google drive\oop2\vezbe_sredjene\12_strategy_template\strategy\ex1\strategy\strategy.h
+	<iostream>
+
+1452770492 c:\users\sidejan\google drive\oop2\vezbe_sredjene\12_strategy_template\strategy\ex1\strategy\concretestrategya.h
+	"Strategy.h"
+
+1452770493 c:\users\sidejan\google drive\oop2\vezbe_sredjene\12_strategy_template\strategy\ex1\strategy\concretestrategyb.h
+	"Strategy.h"
+
+1452770495 c:\users\sidejan\google drive\oop2\vezbe_sredjene\12_strategy_template\strategy\ex1\strategy\concretestrategyc.h
+	"Strategy.h"
+
+1452770642 source:d:\___predavanja\oop2\lekcije\12_strategy_template\strategy\ex1\strategy\strategymain.cpp
+	"Context.h"
+	"ConcreteStrategyA.h"
+	"ConcreteStrategyB.h"
+	"ConcreteStrategyC.h"
+
+1452770666 d:\___predavanja\oop2\lekcije\12_strategy_template\strategy\ex1\strategy\context.h
+	<iostream>
+	"Strategy.h"
+
+1452770656 d:\___predavanja\oop2\lekcije\12_strategy_template\strategy\ex1\strategy\strategy.h
+	<iostream>
+
+1452770494 d:\___predavanja\oop2\lekcije\12_strategy_template\strategy\ex1\strategy\concretestrategya.h
+	"Strategy.h"
+
+1452770494 d:\___predavanja\oop2\lekcije\12_strategy_template\strategy\ex1\strategy\concretestrategyb.h
+	"Strategy.h"
+
+1452770496 d:\___predavanja\oop2\lekcije\12_strategy_template\strategy\ex1\strategy\concretestrategyc.h
+	"Strategy.h"
+
+1452770642 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\12_strategy_template\12_strategytemplate\strategy\ex1\strategy\strategymain.cpp
+	"Context.h"
+	"ConcreteStrategyA.h"
+	"ConcreteStrategyB.h"
+	"ConcreteStrategyC.h"
+
+1453318261 c:\users\sidejan\google drive\oop2\vezbe_sredjene\12_strategy_template\12_strategytemplate\strategy\ex1\strategy\context.h
+	<iostream>
+	"Strategy.h"
+
+1452770656 c:\users\sidejan\google drive\oop2\vezbe_sredjene\12_strategy_template\12_strategytemplate\strategy\ex1\strategy\strategy.h
+	<iostream>
+
+1452770494 c:\users\sidejan\google drive\oop2\vezbe_sredjene\12_strategy_template\12_strategytemplate\strategy\ex1\strategy\concretestrategya.h
+	"Strategy.h"
+
+1452770494 c:\users\sidejan\google drive\oop2\vezbe_sredjene\12_strategy_template\12_strategytemplate\strategy\ex1\strategy\concretestrategyb.h
+	"Strategy.h"
+
+1452770496 c:\users\sidejan\google drive\oop2\vezbe_sredjene\12_strategy_template\12_strategytemplate\strategy\ex1\strategy\concretestrategyc.h
+	"Strategy.h"
+
