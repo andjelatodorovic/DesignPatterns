@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1450298771 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\9_interpreter_iterator_mediator\interpreter\ex1\interpreter\interpretermain.cpp
+	<vector>
+	"TerminalExpression.h"
+	"NonterminalExpression.h"
+
+1450298792 c:\users\sidejan\google drive\oop2\vezbe_sredjene\9_interpreter_iterator_mediator\interpreter\ex1\interpreter\terminalexpression.h
+	<iostream>
+	"AbstractExpression.h"
+
+1450298810 c:\users\sidejan\google drive\oop2\vezbe_sredjene\9_interpreter_iterator_mediator\interpreter\ex1\interpreter\abstractexpression.h
+	"Context.h"
+
+1450296212 c:\users\sidejan\google drive\oop2\vezbe_sredjene\9_interpreter_iterator_mediator\interpreter\ex1\interpreter\context.h
+
+1450298788 c:\users\sidejan\google drive\oop2\vezbe_sredjene\9_interpreter_iterator_mediator\interpreter\ex1\interpreter\nonterminalexpression.h
+	<iostream>
+	"AbstractExpression.h"
+

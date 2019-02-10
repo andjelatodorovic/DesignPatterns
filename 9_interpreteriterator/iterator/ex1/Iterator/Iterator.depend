@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1450365991 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\9_interpreter_iterator\iterator\ex1\iterator\iteratormain.cpp
+	<iostream>
+	"ConcreteAggregate.h"
+	"Iterator.h"
+
+1450365467 c:\users\sidejan\google drive\oop2\vezbe_sredjene\9_interpreter_iterator\iterator\ex1\iterator\concreteaggregate.h
+	"ConcreteIterator.h"
+
+1450366040 c:\users\sidejan\google drive\oop2\vezbe_sredjene\9_interpreter_iterator\iterator\ex1\iterator\concreteiterator.h
+	"Iterator.h"
+
+1450366003 c:\users\sidejan\google drive\oop2\vezbe_sredjene\9_interpreter_iterator\iterator\ex1\iterator\iterator.h
+	<vector>
+	"Aggregate.h"
+
+1450365453 c:\users\sidejan\google drive\oop2\vezbe_sredjene\9_interpreter_iterator\iterator\ex1\iterator\aggregate.h
+	<vector>
+
+1450333590 source:d:\___predavanja\oop2\lekcije\9_interpreter_iterator\iterator\ex1\iterator\iteratormain.cpp
+	<iostream>
+	"ConcreteAggregate.h"
+	"Iterator.h"
+
+1450333066 d:\___predavanja\oop2\lekcije\9_interpreter_iterator\iterator\ex1\iterator\concreteaggregate.h
+	"ConcreteIterator.h"
+
+1450974377 d:\___predavanja\oop2\lekcije\9_interpreter_iterator\iterator\ex1\iterator\concreteiterator.h
+	"Iterator.h"
+
+1450333602 d:\___predavanja\oop2\lekcije\9_interpreter_iterator\iterator\ex1\iterator\iterator.h
+	<vector>
+	"Aggregate.h"
+
+1450333052 d:\___predavanja\oop2\lekcije\9_interpreter_iterator\iterator\ex1\iterator\aggregate.h
+	<vector>
+
+1453292384 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\9_interpreter_iterator\9_interpreteriterator\iterator\ex1\iterator\iteratormain.cpp
+	<iostream>
+	"ConcreteAggregate.h"
+	"Iterator.h"
+
+1453292206 c:\users\sidejan\google drive\oop2\vezbe_sredjene\9_interpreter_iterator\9_interpreteriterator\iterator\ex1\iterator\concreteaggregate.h
+	"ConcreteIterator.h"
+
+1453292347 c:\users\sidejan\google drive\oop2\vezbe_sredjene\9_interpreter_iterator\9_interpreteriterator\iterator\ex1\iterator\concreteiterator.h
+	"Iterator.h"
+
+1453292287 c:\users\sidejan\google drive\oop2\vezbe_sredjene\9_interpreter_iterator\9_interpreteriterator\iterator\ex1\iterator\iterator.h
+	<vector>
+	"Aggregate.h"
+
+1453292158 c:\users\sidejan\google drive\oop2\vezbe_sredjene\9_interpreter_iterator\9_interpreteriterator\iterator\ex1\iterator\aggregate.h
+	<vector>
+
