@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1447321771 source:e:\predavanja\oop2\lekcije\4_singleton_adapter_bridge\singleton\ex1\singleton\singletonmain.cpp
+	"Singleton.h"
+
+1447321953 e:\predavanja\oop2\lekcije\4_singleton_adapter_bridge\singleton\ex1\singleton\singleton.h
+	<iostream>
+
+1447344874 source:d:\___predavanja\oop2\lekcije\4_singleton_adapter_bridge\singleton\ex1\singleton\singletonmain.cpp
+	"Singleton.h"
+
+1447344859 d:\___predavanja\oop2\lekcije\4_singleton_adapter_bridge\singleton\ex1\singleton\singleton.h
+	<iostream>
+
+1447620064 source:e:\predavanja\oop2\postavljenje_lekcije\4_singleton_adapter\singleton\ex1\singleton\singletonmain.cpp
+	"Singleton.h"
+
+1447620433 e:\predavanja\oop2\postavljenje_lekcije\4_singleton_adapter\singleton\ex1\singleton\singleton.h
+	<iostream>
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1447339440 source:d:\___predavanja\oop2\lekcije\4_singleton_adapter_bridge\adapter\ex1\classadapter\adaptermain.cpp
+	"Adapter.h"
+
+1447339464 d:\___predavanja\oop2\lekcije\4_singleton_adapter_bridge\adapter\ex1\classadapter\adapter.h
+	"Target.h"
+	"Adaptee.h"
+	<iostream>
+
+1447339260 d:\___predavanja\oop2\lekcije\4_singleton_adapter_bridge\adapter\ex1\classadapter\target.h
+
+1447339454 d:\___predavanja\oop2\lekcije\4_singleton_adapter_bridge\adapter\ex1\classadapter\adaptee.h
+	<iostream>
+
+1447624803 source:e:\predavanja\oop2\postavljenje_lekcije\4_singleton_adapter\adapter\ex1\classadapter\adaptermain.cpp
+	"Adapter.h"
+
+1447624838 e:\predavanja\oop2\postavljenje_lekcije\4_singleton_adapter\adapter\ex1\classadapter\adapter.h
+	"Target.h"
+	"Adaptee.h"
+	<iostream>
+
+1447624534 e:\predavanja\oop2\postavljenje_lekcije\4_singleton_adapter\adapter\ex1\classadapter\target.h
+
+1447624714 e:\predavanja\oop2\postavljenje_lekcije\4_singleton_adapter\adapter\ex1\classadapter\adaptee.h
+	<iostream>
+
