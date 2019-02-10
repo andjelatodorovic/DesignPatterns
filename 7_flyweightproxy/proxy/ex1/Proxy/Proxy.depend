@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1449154603 source:e:\predavanja\oop2\lekcije\7_flyweight_proxy\proxy\ex1\proxy\proxymain.cpp
+	"Proxy.h"
+	"RealSubject.h"
+
+1449154616 e:\predavanja\oop2\lekcije\7_flyweight_proxy\proxy\ex1\proxy\proxy.h
+	<iostream>
+	"RealSubject.h"
+
+1449154028 e:\predavanja\oop2\lekcije\7_flyweight_proxy\proxy\ex1\proxy\subject.h
+
+1449154022 e:\predavanja\oop2\lekcije\7_flyweight_proxy\proxy\ex1\proxy\realsubject.h
+	<iostream>
+	"Subject.h"
+
+1449154603 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\za slanje\7_flyweightproxy\proxy\ex1\proxy\proxymain.cpp
+	"Proxy.h"
+	"RealSubject.h"
+
+1449840943 c:\users\sidejan\google drive\oop2\vezbe_sredjene\za slanje\7_flyweightproxy\proxy\ex1\proxy\proxy.h
+	<iostream>
+	"RealSubject.h"
+
+1449840949 c:\users\sidejan\google drive\oop2\vezbe_sredjene\za slanje\7_flyweightproxy\proxy\ex1\proxy\realsubject.h
+	<iostream>
+	"Subject.h"
+
+1449840955 c:\users\sidejan\google drive\oop2\vezbe_sredjene\za slanje\7_flyweightproxy\proxy\ex1\proxy\subject.h
+

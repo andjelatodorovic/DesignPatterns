@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1449677802 source:d:\___predavanja\oop2\lekcije\8_chainofresponsibility_command\command\ex1\command\commandmain.cpp
+	"ConcreteCommand.h"
+	"Invoker.h"
+
+1449677714 d:\___predavanja\oop2\lekcije\8_chainofresponsibility_command\command\ex1\command\concretecommand.h
+	"Command.h"
+
+1449677734 d:\___predavanja\oop2\lekcije\8_chainofresponsibility_command\command\ex1\command\command.h
+	"Receiver.h"
+
+1449677726 d:\___predavanja\oop2\lekcije\8_chainofresponsibility_command\command\ex1\command\receiver.h
+	<iostream>
+
+1449677602 d:\___predavanja\oop2\lekcije\8_chainofresponsibility_command\command\ex1\command\invoker.h
+
+1449677802 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\8_chainofresponsibility_command\8_chainofresponsibilitycommand\command\ex1\command\commandmain.cpp
+	"ConcreteCommand.h"
+	"Invoker.h"
+
+1453283518 c:\users\sidejan\google drive\oop2\vezbe_sredjene\8_chainofresponsibility_command\8_chainofresponsibilitycommand\command\ex1\command\concretecommand.h
+	"Command.h"
+
+1453283593 c:\users\sidejan\google drive\oop2\vezbe_sredjene\8_chainofresponsibility_command\8_chainofresponsibilitycommand\command\ex1\command\command.h
+	"Receiver.h"
+
+1453283179 c:\users\sidejan\google drive\oop2\vezbe_sredjene\8_chainofresponsibility_command\8_chainofresponsibilitycommand\command\ex1\command\receiver.h
+	<iostream>
+
+1453283414 c:\users\sidejan\google drive\oop2\vezbe_sredjene\8_chainofresponsibility_command\8_chainofresponsibilitycommand\command\ex1\command\invoker.h
+

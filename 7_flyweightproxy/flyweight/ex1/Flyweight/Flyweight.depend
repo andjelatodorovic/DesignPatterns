@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1449144026 source:e:\predavanja\oop2\lekcije\7_flyweight_proxy\flyweight\ex1\flyweight\flyweightmain.cpp
+	"FlyweightFactory.h"
+
+1449143694 e:\predavanja\oop2\lekcije\7_flyweight_proxy\flyweight\ex1\flyweight\flyweightfactory.h
+	<map>
+	"ConcreteFlyweight.h"
+
+1449143795 e:\predavanja\oop2\lekcije\7_flyweight_proxy\flyweight\ex1\flyweight\concreteflyweight.h
+	<iostream>
+	"Flyweight.h"
+
+1449143867 e:\predavanja\oop2\lekcije\7_flyweight_proxy\flyweight\ex1\flyweight\flyweight.h
+
+1449687918 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\za slanje\7_flyweightproxy\flyweight\ex1\flyweight\flyweightmain.cpp
+	"FlyweightFactory.h"
+	"UnsharedConcreteFlyweight.h"
+
+1449681376 c:\users\sidejan\google drive\oop2\vezbe_sredjene\za slanje\7_flyweightproxy\flyweight\ex1\flyweight\flyweightfactory.h
+	<map>
+	"ConcreteFlyweight.h"
+
+1449688024 c:\users\sidejan\google drive\oop2\vezbe_sredjene\za slanje\7_flyweightproxy\flyweight\ex1\flyweight\concreteflyweight.h
+	<iostream>
+	"Flyweight.h"
+
+1449681520 c:\users\sidejan\google drive\oop2\vezbe_sredjene\za slanje\7_flyweightproxy\flyweight\ex1\flyweight\flyweight.h
+
+1449687934 c:\users\sidejan\google drive\oop2\vezbe_sredjene\za slanje\7_flyweightproxy\flyweight\ex1\flyweight\unsharedconcreteflyweight.h
+	<iostream>
+	"Flyweight.h"
+

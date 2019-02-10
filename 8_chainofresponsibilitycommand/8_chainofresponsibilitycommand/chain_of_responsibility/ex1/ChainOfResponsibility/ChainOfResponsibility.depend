@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1449706476 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\8_chainofresponsibility_command\chain_of_responsibility\ex1\chainofresponsibility\chainofresponsibilitymain.cpp
+	"ConcreteHandler1.h"
+	"ConcreteHandler2.h"
+
+1449706538 c:\users\sidejan\google drive\oop2\vezbe_sredjene\8_chainofresponsibility_command\chain_of_responsibility\ex1\chainofresponsibility\concretehandler1.h
+	"Handler.h"
+
+1449706484 c:\users\sidejan\google drive\oop2\vezbe_sredjene\8_chainofresponsibility_command\chain_of_responsibility\ex1\chainofresponsibility\handler.h
+	<iostream>
+	"Request.h"
+
+1449706416 c:\users\sidejan\google drive\oop2\vezbe_sredjene\8_chainofresponsibility_command\chain_of_responsibility\ex1\chainofresponsibility\request.h
+
+1449706547 c:\users\sidejan\google drive\oop2\vezbe_sredjene\8_chainofresponsibility_command\chain_of_responsibility\ex1\chainofresponsibility\concretehandler2.h
+	"Handler.h"
+
+1449674076 source:d:\___predavanja\oop2\lekcije\8_chainofresponsibility_command\chain_of_responsibility\ex1\chainofresponsibility\chainofresponsibilitymain.cpp
+	"ConcreteHandler1.h"
+	"ConcreteHandler2.h"
+
+1449674138 d:\___predavanja\oop2\lekcije\8_chainofresponsibility_command\chain_of_responsibility\ex1\chainofresponsibility\concretehandler1.h
+	"Handler.h"
+
+1449674084 d:\___predavanja\oop2\lekcije\8_chainofresponsibility_command\chain_of_responsibility\ex1\chainofresponsibility\handler.h
+	<iostream>
+	"Request.h"
+
+1449674016 d:\___predavanja\oop2\lekcije\8_chainofresponsibility_command\chain_of_responsibility\ex1\chainofresponsibility\request.h
+
+1449674146 d:\___predavanja\oop2\lekcije\8_chainofresponsibility_command\chain_of_responsibility\ex1\chainofresponsibility\concretehandler2.h
+	"Handler.h"
+
+1449765394 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\8_chainofresponsibility_command\8_chainofresponsibilitycommand\chain_of_responsibility\ex1\chainofresponsibility\chainofresponsibilitymain.cpp
+	"ConcreteHandler1.h"
+	"ConcreteHandler2.h"
+
+1449674138 c:\users\sidejan\google drive\oop2\vezbe_sredjene\8_chainofresponsibility_command\8_chainofresponsibilitycommand\chain_of_responsibility\ex1\chainofresponsibility\concretehandler1.h
+	"Handler.h"
+
+1449674084 c:\users\sidejan\google drive\oop2\vezbe_sredjene\8_chainofresponsibility_command\8_chainofresponsibilitycommand\chain_of_responsibility\ex1\chainofresponsibility\handler.h
+	<iostream>
+	"Request.h"
+
+1449674016 c:\users\sidejan\google drive\oop2\vezbe_sredjene\8_chainofresponsibility_command\8_chainofresponsibilitycommand\chain_of_responsibility\ex1\chainofresponsibility\request.h
+
+1449674146 c:\users\sidejan\google drive\oop2\vezbe_sredjene\8_chainofresponsibility_command\8_chainofresponsibilitycommand\chain_of_responsibility\ex1\chainofresponsibility\concretehandler2.h
+	"Handler.h"
+
