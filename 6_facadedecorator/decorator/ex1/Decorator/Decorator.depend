@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1448532475 source:e:\predavanja\oop2\lekcije\6_facade_decorator\decorator\ex1\decorator\decoratormain.cpp
+	"ConcreteComponent.h"
+	"ConcreteDecorator.h"
+	<memory>
+
+1448532371 e:\predavanja\oop2\lekcije\6_facade_decorator\decorator\ex1\decorator\concretecomponent.h
+	"Component.h"
+	<iostream>
+
+1448532509 e:\predavanja\oop2\lekcije\6_facade_decorator\decorator\ex1\decorator\component.h
+
+1448532355 e:\predavanja\oop2\lekcije\6_facade_decorator\decorator\ex1\decorator\concretedecorator.h
+	"Decorator.h"
+	<iostream>
+
+1448532518 e:\predavanja\oop2\lekcije\6_facade_decorator\decorator\ex1\decorator\decorator.h
+	"Component.h"
+
+1448555031 source:d:\___predavanja\oop2\lekcije\6_facade_decorator\decorator\ex1\decorator\decoratormain.cpp
+	"ConcreteComponent.h"
+	"ConcreteDecorator.h"
+	<memory>
+
+1448532372 d:\___predavanja\oop2\lekcije\6_facade_decorator\decorator\ex1\decorator\concretecomponent.h
+	"Component.h"
+	<iostream>
+
+1448532510 d:\___predavanja\oop2\lekcije\6_facade_decorator\decorator\ex1\decorator\component.h
+
+1448554982 d:\___predavanja\oop2\lekcije\6_facade_decorator\decorator\ex1\decorator\concretedecorator.h
+	"Decorator.h"
+	<iostream>
+
+1448532520 d:\___predavanja\oop2\lekcije\6_facade_decorator\decorator\ex1\decorator\decorator.h
+	"Component.h"
+
+1449063728 source:d:\___predavanja\oop2\zaslanje\6_facade_decorator\decorator\ex1\decorator\decoratormain.cpp
+	<memory>
+	"ConcreteComponent.h"
+	"ConcreteDecorator.h"
+
+1449063749 d:\___predavanja\oop2\zaslanje\6_facade_decorator\decorator\ex1\decorator\concretecomponent.h
+	<iostream>
+	"Component.h"
+
+1449062793 d:\___predavanja\oop2\zaslanje\6_facade_decorator\decorator\ex1\decorator\component.h
+
+1449063402 d:\___predavanja\oop2\zaslanje\6_facade_decorator\decorator\ex1\decorator\concretedecorator.h
+	<iostream>
+	"Decorator.h"
+
+1449063739 d:\___predavanja\oop2\zaslanje\6_facade_decorator\decorator\ex1\decorator\decorator.h
+	"Component.h"
+

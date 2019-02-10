@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1448550576 source:d:\___predavanja\oop2\lekcije\6_facade_decorator\facade\ex1\facade\facademain.cpp
+	"Facade.h"
+
+1448550580 d:\___predavanja\oop2\lekcije\6_facade_decorator\facade\ex1\facade\facade.h
+	"Class1.h"
+	"Class2.h"
+	"Class3.h"
+	<iostream>
+
+1448550464 d:\___predavanja\oop2\lekcije\6_facade_decorator\facade\ex1\facade\class1.h
+	<iostream>
+
+1448550482 d:\___predavanja\oop2\lekcije\6_facade_decorator\facade\ex1\facade\class2.h
+	<iostream>
+
+1448550502 d:\___predavanja\oop2\lekcije\6_facade_decorator\facade\ex1\facade\class3.h
+	<iostream>
+
