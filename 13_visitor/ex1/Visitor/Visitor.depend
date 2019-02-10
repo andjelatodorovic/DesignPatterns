@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1453377141 source:c:\users\sidejan\google drive\oop2\vezbe_sredjene\13_visitor\ex1\visitor\visitormain.cpp
+	"ConcreteVisitor1.h"
+	"ConcreteVisitor2.h"
+	"ObjectStructure.h"
+
+1453375805 c:\users\sidejan\google drive\oop2\vezbe_sredjene\13_visitor\ex1\visitor\concreteelementa.h
+	<iostream>
+	"Element.h"
+
+1453375797 c:\users\sidejan\google drive\oop2\vezbe_sredjene\13_visitor\ex1\visitor\element.h
+	"Visitor.h"
+
+1453375820 c:\users\sidejan\google drive\oop2\vezbe_sredjene\13_visitor\ex1\visitor\visitor.h
+
+1453378982 c:\users\sidejan\google drive\oop2\vezbe_sredjene\13_visitor\ex1\visitor\concreteelementb.h
+	<iostream>
+	"Element.h"
+
+1453378967 c:\users\sidejan\google drive\oop2\vezbe_sredjene\13_visitor\ex1\visitor\concretevisitor1.h
+	<iostream>
+	"ConcreteElementA.h"
+	"ConcreteElementB.h"
+
+1453378915 c:\users\sidejan\google drive\oop2\vezbe_sredjene\13_visitor\ex1\visitor\concretevisitor2.h
+	<iostream>
+	"ConcreteElementA.h"
+	"ConcreteElementB.h"
+
+1453377164 c:\users\sidejan\google drive\oop2\vezbe_sredjene\13_visitor\ex1\visitor\objectstructure.h
+	<vector>
+	<iostream>
+	"Element.h"
+
+1453377142 source:d:\___predavanja\oop2\lekcije\13_visitor\ex1\visitor\visitormain.cpp
+	"ConcreteVisitor1.h"
+	"ConcreteVisitor2.h"
+	"ObjectStructure.h"
+
+1453378968 d:\___predavanja\oop2\lekcije\13_visitor\ex1\visitor\concretevisitor1.h
+	<iostream>
+	"ConcreteElementA.h"
+	"ConcreteElementB.h"
+
+1453375806 d:\___predavanja\oop2\lekcije\13_visitor\ex1\visitor\concreteelementa.h
+	<iostream>
+	"Element.h"
+
+1453375798 d:\___predavanja\oop2\lekcije\13_visitor\ex1\visitor\element.h
+	"Visitor.h"
+
+1453375822 d:\___predavanja\oop2\lekcije\13_visitor\ex1\visitor\visitor.h
+
+1453378984 d:\___predavanja\oop2\lekcije\13_visitor\ex1\visitor\concreteelementb.h
+	<iostream>
+	"Element.h"
+
+1453378916 d:\___predavanja\oop2\lekcije\13_visitor\ex1\visitor\concretevisitor2.h
+	<iostream>
+	"ConcreteElementA.h"
+	"ConcreteElementB.h"
+
+1453377166 d:\___predavanja\oop2\lekcije\13_visitor\ex1\visitor\objectstructure.h
+	<vector>
+	<iostream>
+	"Element.h"
+
