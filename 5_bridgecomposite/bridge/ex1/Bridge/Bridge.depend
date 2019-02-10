@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1447928138 source:e:\predavanja\oop2\lekcije\5_bridge_composite\bridge\ex1\bridge\bridgemain.cpp
+	"RefinedAbstraction.h"
+	"ConcreteImplementorA.h"
+	"ConcreteImplementorB.h"
+	<iostream>
+
+1447928499 e:\predavanja\oop2\lekcije\5_bridge_composite\bridge\ex1\bridge\refinedabstraction.h
+	"Abstraction.h"
+
+1447928474 e:\predavanja\oop2\lekcije\5_bridge_composite\bridge\ex1\bridge\abstraction.h
+	"Implementor.h"
+
+1447927598 e:\predavanja\oop2\lekcije\5_bridge_composite\bridge\ex1\bridge\implementor.h
+
+1447928034 e:\predavanja\oop2\lekcije\5_bridge_composite\bridge\ex1\bridge\concreteimplementora.h
+	"Implementor.h"
+	<iostream>
+
+1447928026 e:\predavanja\oop2\lekcije\5_bridge_composite\bridge\ex1\bridge\concreteimplementorb.h
+	"Implementor.h"
+	<iostream>
+
+1447928858 source:d:\___predavanja\oop2\lekcije\5_bridge_composite\bridge\ex1\bridge\bridgemain.cpp
+	"RefinedAbstraction.h"
+	"ConcreteImplementorA.h"
+	"ConcreteImplementorB.h"
+	<iostream>
+
+1447928500 d:\___predavanja\oop2\lekcije\5_bridge_composite\bridge\ex1\bridge\refinedabstraction.h
+	"Abstraction.h"
+
+1447928476 d:\___predavanja\oop2\lekcije\5_bridge_composite\bridge\ex1\bridge\abstraction.h
+	"Implementor.h"
+
+1447928514 d:\___predavanja\oop2\lekcije\5_bridge_composite\bridge\ex1\bridge\implementor.h
+
+1447928522 d:\___predavanja\oop2\lekcije\5_bridge_composite\bridge\ex1\bridge\concreteimplementora.h
+	"Implementor.h"
+	<iostream>
+
+1447928524 d:\___predavanja\oop2\lekcije\5_bridge_composite\bridge\ex1\bridge\concreteimplementorb.h
+	"Implementor.h"
+	<iostream>
+
+1449014607 source:d:\___predavanja\oop2\zaslanje\5_bridge_composite\bridge\ex1\bridge\bridgemain.cpp
+	<iostream>
+	"RefinedAbstraction.h"
+	"ConcreteImplementorA.h"
+	"ConcreteImplementorB.h"
+
+1449014925 d:\___predavanja\oop2\zaslanje\5_bridge_composite\bridge\ex1\bridge\refinedabstraction.h
+	"Abstraction.h"
+
+1449014855 d:\___predavanja\oop2\zaslanje\5_bridge_composite\bridge\ex1\bridge\abstraction.h
+	"Implementor.h"
+
+1449014910 d:\___predavanja\oop2\zaslanje\5_bridge_composite\bridge\ex1\bridge\implementor.h
+
+1449014889 d:\___predavanja\oop2\zaslanje\5_bridge_composite\bridge\ex1\bridge\concreteimplementora.h
+	<iostream>
+	"Implementor.h"
+
+1449014893 d:\___predavanja\oop2\zaslanje\5_bridge_composite\bridge\ex1\bridge\concreteimplementorb.h
+	<iostream>
+	"Implementor.h"
+

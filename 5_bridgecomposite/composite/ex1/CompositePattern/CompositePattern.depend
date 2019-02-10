@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1447944885 source:e:\predavanja\oop2\lekcije\5_bridge_composite\composite\ex1\compositepattern\compositemain.cpp
+	"Composite.h"
+	"Leaf.h"
+
+1447946539 e:\predavanja\oop2\lekcije\5_bridge_composite\composite\ex1\compositepattern\composite.h
+	"Component.h"
+	<iostream>
+	<vector>
+
+1447944467 e:\predavanja\oop2\lekcije\5_bridge_composite\composite\ex1\compositepattern\component.h
+
+1447944388 e:\predavanja\oop2\lekcije\5_bridge_composite\composite\ex1\compositepattern\leaf.h
+
+1447946550 source:d:\___predavanja\oop2\lekcije\5_bridge_composite\composite\ex1\compositepattern\compositemain.cpp
+	"Composite.h"
+	"Leaf.h"
+
+1447946540 d:\___predavanja\oop2\lekcije\5_bridge_composite\composite\ex1\compositepattern\composite.h
+	"Component.h"
+	<iostream>
+	<vector>
+
+1447944468 d:\___predavanja\oop2\lekcije\5_bridge_composite\composite\ex1\compositepattern\component.h
+
+1447944390 d:\___predavanja\oop2\lekcije\5_bridge_composite\composite\ex1\compositepattern\leaf.h
+
+1449057541 source:d:\___predavanja\oop2\zaslanje\5_bridge_composite\composite\ex1\compositepattern\compositemain.cpp
+	"Composite.h"
+	"Leaf.h"
+
+1449057131 d:\___predavanja\oop2\zaslanje\5_bridge_composite\composite\ex1\compositepattern\composite.h
+	<iostream>
+	<vector>
+	"Component.h"
+
+1449057484 d:\___predavanja\oop2\zaslanje\5_bridge_composite\composite\ex1\compositepattern\component.h
+
+1449056938 d:\___predavanja\oop2\zaslanje\5_bridge_composite\composite\ex1\compositepattern\leaf.h
+
