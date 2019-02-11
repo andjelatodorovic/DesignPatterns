@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="singleton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="abstractfactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="factorymethod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prototype.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="adapter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="builder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bridge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="composite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="decorator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="facade.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="proxy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="flyweight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="chainofresponsibility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="command.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="observer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mediator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="visitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="memento.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="state.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="strategy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="templatemethod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="iterator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="interpreter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="singleton.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="abstractfactory.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="factorymethod.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototype.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="adapter.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="builder.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bridge.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="composite.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="decorator.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="facade.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="proxy.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="flyweight.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="chainofresponsibility.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="command.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="observer.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mediator.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="visitor.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="memento.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="state.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="strategy.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="templatemethod.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="iterator.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="interpreter.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
